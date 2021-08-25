@@ -21,7 +21,7 @@ public class HelloGits {
 		// TODO Auto-generated method stub
          System.out.println("git管理");
          System.out.println("git管理1");
-         
+         System.out.println("git管理2");
 	}
 
 }
