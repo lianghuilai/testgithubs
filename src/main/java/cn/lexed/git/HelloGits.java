@@ -23,6 +23,7 @@ public class HelloGits {
          System.out.println("git管理1");
          System.out.println("git管理2");
          System.out.println("git管理2");
+         System.out.println("修复bug,xxxx");
 	}
 
 }
